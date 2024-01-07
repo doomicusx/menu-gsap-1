@@ -1,0 +1,9 @@
+@import url(./menuAnime.css);
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+body.hide {
+  overflow: hidden;
+}
